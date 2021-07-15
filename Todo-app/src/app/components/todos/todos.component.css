@@ -1,0 +1,15 @@
+.todo {
+    display: flex;
+    padding: 10px;
+}
+.todo div {
+    margin: 10px;
+    width: 40%;
+}
+.todos input {
+    padding: 10px;
+    margin: 10px;
+}
+input.todo-input{
+    width: 75%;
+}
